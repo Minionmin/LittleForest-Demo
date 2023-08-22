@@ -20,3 +20,5 @@ Demo Version of 2D Platformer RPG "LittleForest"
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
          このプロジェクトは純粋に教育目的で開発され、収益化する意図はありません。すべてのアセットのライセンスはそれぞれのクリエイターに帰属します。このリポジトリにはまだビルドされていないUE5とアセットの生ファイルが含まれていますが、UE5のエディター内で直接ゲームをプレイすることができます。
+
+<br>Gameplay・ゲームプレイ動画: https://drive.google.com/drive/u/1/folders/1Z9Muj7SqrQxFzL6yhHFR7Rmhwwo03Uja
